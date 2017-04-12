@@ -1,0 +1,12 @@
+body {
+	 background-color: #F0FFFF;
+}
+
+h1, h3{
+	font-family: "Comic Sans MS";
+}
+.panel {
+	background-color: #FFFAFA;
+	border: 1px solid #E6E6FA;
+	border-radius: 10px;
+}
